@@ -1,0 +1,17 @@
+C:\Users\aluno.cad\Documents\Robson\AppComMultiplasJanelas\AppComMultiplasJanelas\bin\Debug\net8.0-windows\AppComMultiplasJanelas.exe
+C:\Users\aluno.cad\Documents\Robson\AppComMultiplasJanelas\AppComMultiplasJanelas\bin\Debug\net8.0-windows\AppComMultiplasJanelas.deps.json
+C:\Users\aluno.cad\Documents\Robson\AppComMultiplasJanelas\AppComMultiplasJanelas\bin\Debug\net8.0-windows\AppComMultiplasJanelas.runtimeconfig.json
+C:\Users\aluno.cad\Documents\Robson\AppComMultiplasJanelas\AppComMultiplasJanelas\bin\Debug\net8.0-windows\AppComMultiplasJanelas.dll
+C:\Users\aluno.cad\Documents\Robson\AppComMultiplasJanelas\AppComMultiplasJanelas\bin\Debug\net8.0-windows\AppComMultiplasJanelas.pdb
+C:\Users\aluno.cad\Documents\Robson\AppComMultiplasJanelas\AppComMultiplasJanelas\obj\Debug\net8.0-windows\AppComMultiplasJanelas.Form1.resources
+C:\Users\aluno.cad\Documents\Robson\AppComMultiplasJanelas\AppComMultiplasJanelas\obj\Debug\net8.0-windows\AppComMultiplasJanelas.FormNovoProduto.resources
+C:\Users\aluno.cad\Documents\Robson\AppComMultiplasJanelas\AppComMultiplasJanelas\obj\Debug\net8.0-windows\AppComMultiplasJanelas.csproj.GenerateResource.cache
+C:\Users\aluno.cad\Documents\Robson\AppComMultiplasJanelas\AppComMultiplasJanelas\obj\Debug\net8.0-windows\AppComMultiplasJanelas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno.cad\Documents\Robson\AppComMultiplasJanelas\AppComMultiplasJanelas\obj\Debug\net8.0-windows\AppComMultiplasJanelas.AssemblyInfoInputs.cache
+C:\Users\aluno.cad\Documents\Robson\AppComMultiplasJanelas\AppComMultiplasJanelas\obj\Debug\net8.0-windows\AppComMultiplasJanelas.AssemblyInfo.cs
+C:\Users\aluno.cad\Documents\Robson\AppComMultiplasJanelas\AppComMultiplasJanelas\obj\Debug\net8.0-windows\AppComMultiplasJanelas.csproj.CoreCompileInputs.cache
+C:\Users\aluno.cad\Documents\Robson\AppComMultiplasJanelas\AppComMultiplasJanelas\obj\Debug\net8.0-windows\AppComMultiplasJanelas.dll
+C:\Users\aluno.cad\Documents\Robson\AppComMultiplasJanelas\AppComMultiplasJanelas\obj\Debug\net8.0-windows\refint\AppComMultiplasJanelas.dll
+C:\Users\aluno.cad\Documents\Robson\AppComMultiplasJanelas\AppComMultiplasJanelas\obj\Debug\net8.0-windows\AppComMultiplasJanelas.pdb
+C:\Users\aluno.cad\Documents\Robson\AppComMultiplasJanelas\AppComMultiplasJanelas\obj\Debug\net8.0-windows\AppComMultiplasJanelas.genruntimeconfig.cache
+C:\Users\aluno.cad\Documents\Robson\AppComMultiplasJanelas\AppComMultiplasJanelas\obj\Debug\net8.0-windows\ref\AppComMultiplasJanelas.dll
